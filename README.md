@@ -29,7 +29,7 @@ git clone https://github.com/enix14/enix.git
 2. Go inside the downloaded folder
 
 ```
-cd myapex
+cd enix
 ```
 
 3. Compile the code 
